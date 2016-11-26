@@ -16,10 +16,10 @@ Pero en el caso de que quieras crear tu propio entorno puedes repasar el conteni
 * provision/vagrant_framework.sh // Instala el Slim con Composer; Añade el RedBeanPHP; Crea la base de datos, tablas y e inserta datos iniciales.
 
 ## Estructura de directorios
-* /framework
-* /framework/microdemo código del proyecto..
-* /framework/vendor: software externo, Sim, RedBeanPHP
-* /html: acceso externo a los servicios.
+* /framework: Parte interna del proyecto.
+* /framework/microdemo: Código del proyecto.
+* /framework/vendor: Software externo, Slim, RedBeanPHP.
+* /html: Acceso externo a los servicios del proyecto.
 
 ## Pruebas
 
