@@ -26,9 +26,12 @@ Pero en el caso de que quieras crear tu propio entorno puedes repasar el conteni
 Supongamos que el servidor es el 10.1.1.2
 
 Para obtener la lista de etiquetas en JSON
-curl -v http://10.1.1.2/index.php
-curl -v http://10.1.1.2/
-
+<pre>
+  curl -v http://10.1.1.2/index.php
+  curl -v http://10.1.1.2/
+</pre>
 Para obtener la lista de enlaces de una etiqueta en JSON
-curl -v http://10.1.1.2/index.php/tag/RESTfull
-curl -v http://10.1.1.2/tag/RESTfull
+<pre>
+  curl -v http://10.1.1.2/index.php/tag/RESTfull
+  curl -v http://10.1.1.2/tag/RESTfull
+</pre>
