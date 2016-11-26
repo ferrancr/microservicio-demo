@@ -1,0 +1,11 @@
+{
+    "require": {
+        "slim/slim": "^3.0"
+    },
+    "autoload": {
+ 		"files": [
+ 			"microdemo/lib.php",
+ 			"vendor/rb/rb.php"
+ 		]
+    }
+}

@@ -1,0 +1,5 @@
+framework/vendor/*
+framework/microdemo/prueba.php
+framework/composer.lock
+.vagrant/*
+notas.txt
